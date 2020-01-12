@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\aspire\aspire\bin\Debug\aspire.exe.config
+C:\Users\dell\source\repos\aspire\aspire\bin\Debug\aspire.exe
+C:\Users\dell\source\repos\aspire\aspire\bin\Debug\aspire.pdb
+C:\Users\dell\source\repos\aspire\aspire\obj\Debug\aspire.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\aspire\aspire\obj\Debug\aspire.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\aspire\aspire\obj\Debug\aspire.exe
+C:\Users\dell\source\repos\aspire\aspire\obj\Debug\aspire.pdb
